@@ -1,0 +1,8 @@
+[package]
+name = "strawberry"
+edition = "2021"
+version = "0.0.0"
+description = "Reserved for future use."
+license = "MIT"
+
+[dependencies]
